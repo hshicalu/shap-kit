@@ -3,6 +3,10 @@ nohup.out
 .DS_Store
 .vscode/
 input/
+output/
+.venv/
+.pytest_cache/
+.ruff_cache/
 
 # Python-related
 .ipynb_checkpoints/
